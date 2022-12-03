@@ -1,0 +1,28 @@
+
+.fomulario-from-bootstrap{
+   width: 500px;;
+    background-color: rgb(206, 204, 204);
+    padding: 50px;;
+    margin-top: 40px;
+}
+
+.email-class{
+margin-top: 50px !important;
+
+}
+.senha-classe{
+    margin-top: 50px !important;
+}
+
+.butao-sucesses{
+    margin-top: 30px;
+
+}
+@media only screen and (max-width: 600px) {
+    .butao-sucesses{
+      margin-top:50px !important
+  }
+} 
+.ajustando-text-area{
+    margin-top: 30px ;
+}
